@@ -1,0 +1,15 @@
+{
+  "name": "com.eldritchgames.inputsystem",
+  "version": "1.0.0",
+  "displayName": "EldritchGames Input System",
+  "description": "Genre-agnostic input pipeline for Unity. Defines IInputContext, IInputContextStack, IPawnController, ICommandSource, and ICapabilityProvider — the contracts your game-side Control assembly implements. Requires com.unity.inputsystem.",
+  "unity": "6.0",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  },
+  "keywords": ["input", "context", "pawn", "command", "eldritchgames"],
+  "author": {
+    "name": "EldritchGames",
+    "email": "carlosga@eldritchgames.com.mx"
+  }
+}
